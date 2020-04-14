@@ -5,7 +5,7 @@ def greet_characters(array)
   # Print a custom greeting for each element
   print 'Hello #{element}'
  end
- blinding pry 
+  binding.pry
 end
 
 def list_dwarves(array)
